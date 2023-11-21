@@ -27,3 +27,10 @@ Estou focado em aprimorar minhas habilidades em java .
 Sempre em busca de novos desafios e oportunidades de aprendizado. Admiro a resolução de problemas complexos e a colaboração em equipe. Vamos construir algo incrível juntos!
 
 
+   ## Total de visitas no meu perfil  <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/enzo-brito/count.svg" />
+ </p>
+
+
+
