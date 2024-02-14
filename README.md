@@ -4,8 +4,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Mi
 
 ### 💼 Experiência Profissional
 
-- Casa o Toureiro - Estagio de Analista de sistemas;
-- Casa o Toureiro - Desenvolvedor java;
+- Casa o Toureiro - Estagio de helpdesk;
+- Casa o Toureiro - helpdesk de TI;
   
 
 
