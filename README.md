@@ -11,9 +11,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Mi
 
 ### 🚀 Habilidades
 
-- Linguagens: Java, JavaScript
-- Banco de Dados: MySQL, PostgreSQL
-- Outras: Git
+- Linguagens: Java, Spring Boot
+- Banco de Dados: PostgreSQL
+- Outras: Git, Mavem 
 
 ### 🌱 Atualmente Aprendendo
 
