@@ -5,14 +5,14 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Mi
 ### 💼 Experiência Profissional
 
 - Casa o Toureiro - Estagio de helpdesk;
-- Casa o Toureiro - helpdesk de TI;
+- Casa o Toureiro - Analista e desenvolvedor de sistemas;
   
 
 
 ### 🚀 Habilidades
 
-- Linguagens: Java, Spring Boot
-- Banco de Dados: PostgreSQL
+- Linguagens: Java, Spring Boot,javascript
+- Banco de Dados: PostgreSQL,oracle,sqlserver
 - Outras: Git, Mavem 
 
 ### 🌱 Atualmente Aprendendo
