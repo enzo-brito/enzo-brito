@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou ENZO
+## 👋 Olá, Me Chamo Enzo Brito
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada no mundo da programação começou com java script, e desde então venho explorando e aprendendo constantemente.
 
