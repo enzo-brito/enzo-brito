@@ -6,7 +6,7 @@ Sou desenvolvedor backend com foco em soluções empresariais utilizando a plata
 
 ## 💼 Perfil Técnico
 
-- **Plataforma:** Java SE / Java EE  
+- **Plataforma:** Java 8 / Java EE / Java 
 - **Frameworks:** JSF (JavaServer Faces), PrimeFaces, Spring Boot  
 - **Construção e Gerenciamento:** Maven  
 - **Bancos de Dados:** PostgreSQL, Oracle, MySQL, SQL Server  
