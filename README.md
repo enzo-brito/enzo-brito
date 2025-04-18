@@ -1,38 +1,44 @@
-## 👋 Olá, Me Chamo Enzo Brito
+# Enzo Brito
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada no mundo da programação começou com java script, e desde então venho explorando e aprendendo constantemente.
+Sou desenvolvedor backend com foco em soluções empresariais utilizando a plataforma Java. Tenho experiência em aplicações com Java EE, integração com bancos de dados relacionais e construção de sistemas robustos com JSF e PrimeFaces.
 
-### 💼 Experiência Profissional
+---
 
-- Casa o Toureiro - Estagio de helpdesk;
-- Casa o Toureiro - Analista e desenvolvedor de sistemas;
-  
+## 💼 Perfil Técnico
 
+- **Plataforma:** Java SE / Java EE  
+- **Frameworks:** JSF (JavaServer Faces), PrimeFaces, Spring Boot  
+- **Construção e Gerenciamento:** Maven  
+- **Bancos de Dados:** PostgreSQL, Oracle, MySQL, SQL Server  
+- **Controle de Versão:** Git  
+- **Padrões:** MVC, DAO, JPA, REST
 
-### 🚀 Habilidades
+---
 
-- Linguagens: Java, Spring Boot,javascript
-- Banco de Dados: PostgreSQL,oracle,sqlserver
-- Outras: Git, Mavem 
+## 📌 Sobre Meus Projetos
 
-### 🌱 Atualmente Aprendendo
+reúne pequenos projetos desenvolvidos durante meus estudos e prática com Java, abrangendo temas como:
 
-Estou focado em aprimorar minhas habilidades em java .
+- CRUD com JSF + PrimeFaces  
+- Integração com PostgreSQL e Oracle  
+- Aplicações REST com Spring Boot  
+- Estruturação de projetos com Maven  
+- Componentes visuais com PrimeFaces  
+- Utilização de Beans, EJBs, e persistência com JPA
 
-### 📫 Como Entrar em Contato
+Cada projeto tem como objetivo reforçar conceitos fundamentais e boas práticas na construção de aplicações Java empresariais.
 
-- LinkedIn: www.linkedin.com/in/enzo-brito-b85471284
-- Email:enzoj820@gmail.coom
+---
 
-### 🌐 Mais Sobre Mim
+## 🎯 Objetivo
 
-Sempre em busca de novos desafios e oportunidades de aprendizado. Admiro a resolução de problemas complexos e a colaboração em equipe. Vamos construir algo incrível juntos!
+Minha missão como desenvolvedor é criar soluções eficientes, escaláveis e de fácil manutenção. Tenho paixão por desafios técnicos, padrões limpos e sistemas bem projetados.
 
+---
 
-   ## Total de visitas no meu perfil  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/enzo-brito/count.svg" />
- </p>
+## 📫 Contato
 
+- **LinkedIn:** [linkedin.com/in/enzo-brito-b85471284](https://www.linkedin.com/in/enzo-brito-b85471284)  
+- **E-mail:** enzoj820@gmail.com
 
 
